@@ -59,8 +59,8 @@ const personagens = [
         arquetipo: "Valentão",
         idade: "20",
         descricao: "Adam é o tipo de pessoa que nunca admite estar com medo. Confiante, provocador e impulsivo, ele sempre tenta assumir o controle das situações e proteger sua imagem de “durão”",
-        imagem: "imagens/Adam.png",
-        imagem2: "imagens/Adam2.png"
+        imagem: "imagens/adam.png",
+        imagem2: "imagens/adam2.png"
     },
 
     {
@@ -77,8 +77,8 @@ const personagens = [
         arquetipo: "Herói ",
         idade: "22",
         descricao: "Miguel é aquele que não consegue simplesmente assistir alguém se colocando em perigo. Corajoso, protetor e disposto a assumir riscos pelos outros, ele naturalmente acaba ocupando o papel de líder quando as coisas começam a dar errado, Mesmo sabendo que pode se machucar.",
-        imagem: "imagens/Miguel.png",
-        imagem2: "imagens/Miguel2.png"
+        imagem: "imagens/miguel.png",
+        imagem2: "imagens/miguel2.png"
     },
 
     {
@@ -86,8 +86,8 @@ const personagens = [
         arquetipo: "Nerd",
         idade: "19",
         descricao: "Gabi Gonzaga é reservada, observadora e tem aquele jeito naturalmente sombrio que faz parecer que ela já esperava que alguma coisa desse errado. Gótica e pouco impressionada com as brincadeiras dos outros, prefere ficar na dela, observando tudo em silêncio antes de falar.",
-        imagem: "imagens/Gabi.png",
-        imagem2: "imagens/Gabi2.png"
+        imagem: "imagens/gabi.png",
+        imagem2: "imagens/gabi2.png"
     },
 
     {
